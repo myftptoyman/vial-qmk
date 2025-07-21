@@ -72,7 +72,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [_L6] = LAYOUT(
         G(KC_ESC),   G(KC_Q),      G(KC_W),      G(KC_E),     G(KC_R),     G(KC_T),     G(KC_Y),     G(KC_U),     G(KC_I),     G(KC_O),      G(KC_P),     KC_PGUP, _______,        G(KC_BSPC),
         G(KC_TAB),   G(KC_A),      G(KC_S),      G(KC_D),     G(KC_F),     G(KC_G),     G(KC_H),     G(KC_J),     G(KC_K),     G(KC_L),      KC_HOME,     KC_END,                  G(KC_ENT),
-        G(KC_LSFT),  G(KC_Z),      G(KC_X),      G(KC_C),     G(KC_V),     G(KC_B),     G(KC_N),     G(KC_M),     G(KC_COMM),  G(KC_DOT),    KC_PGDN,                              G(KC_RSFT),
+        KC_LSFT,     G(KC_Z),      G(KC_X),      G(KC_C),     G(KC_V),     G(KC_B),     G(KC_N),     G(KC_M),     G(KC_COMM),  G(KC_DOT),    KC_PGDN,                              G(KC_RSFT),
         G(KC_LCTL),  _______,      G(KC_LALT),   G(KC_SPC),   G(KC_SPC),   _______,                  G(KC_SPC),   G(KC_RALT),  _______,      G(KC_RCTL),                           G(KC_DEL)
         ),
 
