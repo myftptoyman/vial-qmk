@@ -15,34 +15,34 @@
 #define HS_RGB_BAT_COUNT                    1
 
 /* Device Name Definition */
-#define MD_BT1_NAME "EPOMAKER TIDE 75"
-#define MD_BT2_NAME "EPOMAKER TIDE 75"
-#define MD_BT3_NAME "EPOMAKER TIDE 75"
-#define MD_DONGLE_MANUFACTURER "EPOMAKER TIDE 75"                     
+#define MD_BT1_NAME "Toyman-1"
+#define MD_BT2_NAME "Toyman-2"
+#define MD_BT3_NAME "Toyman-3"
+#define MD_DONGLE_MANUFACTURER "Toyman"
 
 /* Device Connection RGB Indicator Light Index And Color */
 #define HS_RGB_BLINK_INDEX_BT1 24
-#define HS_RGB_BLINK_INDEX_BT2 25 
-#define HS_RGB_BLINK_INDEX_BT3 26 
-#define HS_RGB_BLINK_INDEX_2G4 27 
+#define HS_RGB_BLINK_INDEX_BT2 25
+#define HS_RGB_BLINK_INDEX_BT3 26
+#define HS_RGB_BLINK_INDEX_2G4 27
 #define HS_RGB_BLINK_INDEX_USB 23
 
 #define HS_LBACK_COLOR_BT1 RGB_BLUE
 #define HS_LBACK_COLOR_BT2 RGB_BLUE
 #define HS_LBACK_COLOR_BT3 RGB_BLUE
 #define HS_LBACK_COLOR_2G4 RGB_GREEN
-#define HS_LBACK_COLOR_USB RGB_WHITE 
+#define HS_LBACK_COLOR_USB RGB_WHITE
 
 #define HS_PAIR_COLOR_BT1 RGB_BLUE
 #define HS_PAIR_COLOR_BT2 RGB_BLUE
 #define HS_PAIR_COLOR_BT3 RGB_BLUE
-#define HS_PAIR_COLOR_2G4 RGB_GREEN 
+#define HS_PAIR_COLOR_2G4 RGB_GREEN
 
 #define WIITE_B 0X6e
 
 /* Battery */
-#define BATTERY_CAPACITY_LOW 15 
-#define BATTERY_CAPACITY_STOP 0 
+#define BATTERY_CAPACITY_LOW 15
+#define BATTERY_CAPACITY_STOP 0
 #define RGB_MATRIX_BAT_INDEX_MAP {48, 47, 46, 45, 44, 43, 42, 41, 40, 39}
 
 /* Status Indicator Lamp */

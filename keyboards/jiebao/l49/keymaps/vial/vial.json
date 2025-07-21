@@ -1,5 +1,5 @@
 {
-        "name": "Tide 49",
+        "name": "Toyman-49",
         "vendorId": "0x342d",
         "productId": "0xe47a",
         "keycodes": ["qmk_lighting"],
@@ -204,4 +204,3 @@
               ]
         }
       }
-      
